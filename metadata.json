@@ -1,0 +1,6 @@
+{
+  "name": "AI Studio PRO",
+  "description": "Suite creativa todo-en-uno con Chat inteligente, Generador de Imágenes FLUX, Generador de Vídeos, Música con sintetizador AI y Gestor de Proyectos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
